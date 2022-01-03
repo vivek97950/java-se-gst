@@ -14,6 +14,9 @@ public class LogInGui implements ActionListener{
 		JFrame frame;
 
 /* coomented */
+
+/* coomented 2222*/
+
 			
 		LogInGui() {
 			
