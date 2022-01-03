@@ -12,6 +12,8 @@ public class LogInGui implements ActionListener{
 		JPasswordField p1;
 		JButton btn1,btn2;
 		JFrame frame;
+
+/* coomented */
 			
 		LogInGui() {
 			
